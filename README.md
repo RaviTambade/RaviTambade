@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaviTambade
-- 👀 I’m interested in learning and teaching
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in learning and teaching.
+- 🌱 I’m currently enjoying mentoring through Transflower.
 - 💞️ Sharing is caring.
 - 📫 You can always reach me, email: ravi.tambade@transflower.in
 
