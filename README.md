@@ -25,7 +25,7 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
 - [First Year accomplishment of Transflower Learning Program (TAP)](https://ravitambade.wordpress.com/2022/04/02/first-year-accomplishment-of-transflower-learning-program-tap-on-gudhi-padwa-at-transflower/)
 - [Preparing for Industrail Revolution 4.0 Learning](https://ravitambade.wordpress.com/2021/04/08/preparing-for-industrial-revolution-4-0-learning/)
 - [TAP your Potential](https://ravitambade.wordpress.com/2021/04/04/tap-your-potential-2/)
-- [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
+- [playful Curiocity in Learning Process](https://ravitambade.wordpress.com/2021/03/05/playful-curiosity-in-learning-process/)
 - [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
 <!-- BLOG-POST-LIST:END -->
 ---
