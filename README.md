@@ -22,7 +22,7 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
+- [First Year accomplishment of Transflower Learning Program (TAP)](https://ravitambade.wordpress.com/2022/04/02/first-year-accomplishment-of-transflower-learning-program-tap-on-gudhi-padwa-at-transflower/)
 - [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
 - [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
 - [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
