@@ -14,12 +14,11 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravitambade&theme=dracula)](https://git.io/streak-stats)  
 
 
-</p><p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravitambade&layout=compact&hide=html" alt="ravitambade" /></p>
-
-
+</p>
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravitambade&layout=compact&hide=html" alt="ravitambade" />
+</p>
 ---
-</p><p>
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [First Year accomplishment of Transflower Learning Program (TAP)](https://ravitambade.wordpress.com/2022/04/02/first-year-accomplishment-of-transflower-learning-program-tap-on-gudhi-padwa-at-transflower/)
