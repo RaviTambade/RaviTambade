@@ -8,15 +8,6 @@ My attitude towards any technology is, “I don’t know it all, but I will figu
 There is so much to investigate. Every day I come to learn, I find out I know less. This keep my learning spirit alive.
 Learning and Teaching, my passion keeps me involved in teaching and mentoring Information Technology for more than 25 years. I am loving it.
 
-<h1>GitHub Stats 📊</h1>
- 
-![Mei's github stats](https://github-readme-stats.vercel.app/api?username=ravitambade&show_icons=true&theme=dracula) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravitambade&theme=dracula)](https://git.io/streak-stats)  
-
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravitambade&layout=compact&hide=html" alt="ravitambade" />
-</p>
-
 ---
 
 ### 📕 My Latest Blog posts:
@@ -28,3 +19,13 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
 - [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
 <!-- BLOG-POST-LIST:END -->
 ---
+
+<h1>GitHub Stats 📊</h1>
+ 
+![Mei's github stats](https://github-readme-stats.vercel.app/api?username=ravitambade&show_icons=true&theme=dracula) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravitambade&theme=dracula)](https://git.io/streak-stats)  
+
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravitambade&layout=compact&hide=html" alt="ravitambade" />
+</p>
+
