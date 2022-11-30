@@ -16,3 +16,16 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
 <hr>
 </p><p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravitambade&layout=compact&hide=html" alt="ravitambade" /></p>
+
+
+---
+
+### 📕 My Latest Blog posts:
+<!-- BLOG-POST-LIST:START -->
+- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
+- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
+- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
+- [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
+- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
+<!-- BLOG-POST-LIST:END -->
+---
