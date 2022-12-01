@@ -20,14 +20,11 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravitambade&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
         <br>
-    </div>
-    
-    
-    <div align="center">
+
 
 <a href="https://github.com/ravitambade/">
   <img src="https://github-readme-stats.vercel.app/api?username=ravitambade&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravitambade&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravitambade&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="ravitambade"/>
 
 </a>
 </div>
