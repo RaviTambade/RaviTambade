@@ -12,11 +12,12 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
-- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
-- [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
-- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
+- [First Year accomplishedment Of TAP](https://ravitambade.wordpress.com/2022/04/02/first-year-accomplishment-of-transflower-learning-program-tap-on-gudhi-padwa-at-transflower/)
+- [Preparing For Industrial Revolution 4.0 Learning](https://ravitambade.wordpress.com/2021/04/08/preparing-for-industrial-revolution-4-0-learning/)
+- [TAP Your Potential](https://ravitambade.wordpress.com/2021/04/04/tap-your-potential-2/)
+- [Playful Curiocity In Learning Process](https://ravitambade.wordpress.com/2021/03/05/playful-curiosity-in-learning-process/)
+- [Online Learning ke Side Effects](https://ravitambade.wordpress.com/2020/09/26/online-learning-ke-side-effects/)
+- [TAP Your Potential](https://ravitambade.wordpress.com/2020/09/05/tap-your-potential/)
 <!-- BLOG-POST-LIST:END -->
 ---
 
