@@ -63,7 +63,7 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
 <table>
   <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ"><img width="140px" src="https://i.ytimg.com/vi/JdJ2VBbYYTQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ">Getting the user's location with JavaScript (Geolocation API tutorial)</a><br/>Dec 22, 2020</td></tr>
+<td><a href="https://youtu.be/9yC-TANFgUM">When whiteboard becomes canvas</a><br/>Sept 13, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=WZNG8UomjSI"><img width="140px" src="https://i.ytimg.com/vi/WZNG8UomjSI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WZNG8UomjSI">Build a Weather App with HTML, CSS & JavaScript</a><br/>Dec 10, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=BVX7kZ4GM-g"><img width="140px" src="https://i.ytimg.com/vi/BVX7kZ4GM-g/mqdefault.jpg"></a></td>
