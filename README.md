@@ -22,9 +22,6 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
 ---
 
 <h1>GitHub Stats 📊</h1>
-  
-
-![Mei's github stats]([https://github-readme-stats.vercel.app/api?username=ravitambade&show_icons=true&theme=dracula) 
 ![Mei's github stats](https://github-readme-stats.vercel.app/api?username=ravitambade&show_icons=true&theme=dracula) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravitambade&theme=dracula)](https://git.io/streak-stats)  
 
