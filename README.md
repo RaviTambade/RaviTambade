@@ -26,9 +26,9 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
 ![Mei's github stats](https://github-readme-stats.vercel.app/api?username=ravitambade&show_icons=true&theme=dracula) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravitambade&theme=dracula)](https://git.io/streak-stats)  
 
-<p>
+ 
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravitambade&layout=compact&hide=html" alt="ravitambade" />
-</p>
+ 
 
 <p>Connect with me on
 <br>	
