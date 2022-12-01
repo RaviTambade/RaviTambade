@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and teaching.
 - 🌱 I’m currently enjoying mentoring through Transflower.
 - 💞️ Sharing is caring.
-- 📫 You can always reach me, email: ravi.tambade@transflower.in
+- 📫 Doing ordinary things extra ordinarily
 
 My attitude towards any technology is, “I don’t know it all, but I will figure it out”. I find technology fascinating due to its vast ever-changing nature. 
 There is so much to investigate. Every day I come to learn, I find out I know less. This keep my learning spirit alive.
