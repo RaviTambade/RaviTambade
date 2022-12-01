@@ -67,9 +67,9 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
 <tr><td><a href="https://youtu.be/aGR2RltUgtU"><img width="140px" src="https://youtu.be/aGR2RltUgtU"></a></td>
 <td><a href="https://youtu.be/EjX83j7Xp3o">Transflower Online Learning</a><br/>Apr 3, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=BVX7kZ4GM-g"><img width="140px" src="https://i.ytimg.com/vi/BVX7kZ4GM-g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BVX7kZ4GM-g">Making a Responsive (Birthday) Card with HTML and CSS</a><br/>Dec 1, 2020</td></tr>
+<td><a href="https://youtu.be/QlPSVqy72Sc">Drone making from scratch</a><br/>Feb 26, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gU7b5Vgnalw"><img width="140px" src="https://i.ytimg.com/vi/gU7b5Vgnalw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gU7b5Vgnalw">How to Create Custom Snippets for Any Language in VS Code</a><br/>Nov 17, 2020</td></tr>
+<td><a href="https://youtu.be/S3LpaUALGXE">Multi Layer Dotnet Core Application </a><br/>Sept 1, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=5ecM9n7A_pY"><img width="140px" src="https://i.ytimg.com/vi/5ecM9n7A_pY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5ecM9n7A_pY">How to Type HTML and CSS Faster with Emmet</a><br/>Nov 10, 2020</td></tr>
 <!-- YOUTUBE:END -->
