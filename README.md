@@ -8,25 +8,7 @@ My attitude towards any technology is, “I don’t know it all, but I will figu
 There is so much to investigate. Every day I come to learn, I find out I know less. This keep my learning spirit alive.
 Learning and Teaching, my passion keeps me involved in teaching and mentoring Information Technology for more than 25 years. I am loving it.
 
-
-<div align=center>
-        <h1>Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=ravitambade&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-        <br>
-     
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravitambade&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
-        <br>
-   
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravitambade&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
-        <br>
-        <br>
-
-
-<a href="https://github.com/ravitambade/">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravitambade&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravitambade&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="ravitambade"/>
-
-</a>
+ 
 </div>
 
 <br>
