@@ -11,14 +11,7 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
  
 </div>
 
-<br>
-<p align="centre">
- 
-![GitHub Activity Graph]
- (https://activity-graph.herokuapp.com/graph?username=ravitambade&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
-
 ### Languages and Tools 🛠 
-
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -40,24 +33,6 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
-## 📺 Latest YouTube Videos
-
-<table>
-  <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ"><img width="140px" src="https://i.ytimg.com/vi/JdJ2VBbYYTQ/mqdefault.jpg"></a></td>
-<td><a href="https://youtu.be/9yC-TANFgUM">When whiteboard becomes canvas</a><br/>Sept 13, 2020</td></tr>
-<tr><td><a href="https://youtu.be/aGR2RltUgtU"><img width="140px" src="https://youtu.be/aGR2RltUgtU"></a></td>
-<td><a href="https://youtu.be/EjX83j7Xp3o">Transflower Online Learning</a><br/>Apr 3, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=BVX7kZ4GM-g"><img width="140px" src="https://i.ytimg.com/vi/BVX7kZ4GM-g/mqdefault.jpg"></a></td>
-<td><a href="https://youtu.be/QlPSVqy72Sc">Drone making from scratch</a><br/>Feb 26, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=gU7b5Vgnalw"><img width="140px" src="https://i.ytimg.com/vi/gU7b5Vgnalw/mqdefault.jpg"></a></td>
-<td><a href="https://youtu.be/S3LpaUALGXE">Multi Layer Dotnet Core Application </a><br/>Sept 1, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=5ecM9n7A_pY"><img width="140px" src="https://i.ytimg.com/vi/5ecM9n7A_pY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5ecM9n7A_pY">How to Type HTML and CSS Faster with Emmet</a><br/>Nov 10, 2020</td></tr>
-<!-- YOUTUBE:END -->
-</tbody>
-  </table>
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
