@@ -56,7 +56,15 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
 &emsp;
 <a target="_blank" href="https://www.facebook.com/ravivtambade"><img src="https://img.shields.io/badge/Facebook-12100E?style=for-the-badge&logo=facebook&logoColor=white"></img></a>
 
-<h3> TAP Memebers</h3>
-VedantYadav799
+<hr/>
+<h2> TAP Memebers GIT hub Contribution</h2>
+<img src="https://ghchart.rshah.org/PragatiBangar" alt=Pragati Bangar Github chart">
+<img src="https://ghchart.rshah.org/NavaleAbhay" alt="Abhay Navale Github chart">
 <img src="https://ghchart.rshah.org/VedantYadav799" alt="Vedant Github chart">
-<img src="https://ghchart.rshah.org/ravitambade" alt="Name Your Github chart">
+<img src="https://ghchart.rshah.org/TeliShubham-12" alt="Shubham Teli Github chart">
+<img src="https://ghchart.rshah.org/Akashajab1999" alt="Akash Ajab Github chart">
+<img src="https://ghchart.rshah.org/RushikeshChikane" alt="Rushikesh Chikane Github chart">
+<img src="https://ghchart.rshah.org/sahilmankar" alt="Sahil Mankar Github chart">
+<img src="https://ghchart.rshah.org/ErAkshay2210" alt="Akshay Tanpure Github chart">
+<img src="https://ghchart.rshah.org/Gorerohit19" alt="Rohit Gore Github chart">
+
