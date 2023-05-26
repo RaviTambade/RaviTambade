@@ -58,7 +58,9 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
 
 <hr/>
 <h2> TAP Memebers GIT hub Contribution</h2>
+- 👋@PragatiBangar
 <img src="https://ghchart.rshah.org/PragatiBangar" alt=Pragati Bangar Github chart">
+- 👋@NavaleAbhay
 <img src="https://ghchart.rshah.org/NavaleAbhay" alt="Abhay Navale Github chart">
 <img src="https://ghchart.rshah.org/VedantYadav799" alt="Vedant Github chart">
 <img src="https://ghchart.rshah.org/TeliShubham-12" alt="Shubham Teli Github chart">
