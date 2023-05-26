@@ -57,5 +57,6 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
 <a target="_blank" href="https://www.facebook.com/ravivtambade"><img src="https://img.shields.io/badge/Facebook-12100E?style=for-the-badge&logo=facebook&logoColor=white"></img></a>
 
 <h3> TAP Memebers</h3>
-
+VedantYadav799
+<img src="https://ghchart.rshah.org/VedantYadav799" alt="Vedant Github chart">
 <img src="https://ghchart.rshah.org/ravitambade" alt="Name Your Github chart">
