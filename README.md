@@ -55,26 +55,3 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
 <a target="_blank" href="https://twitter.com/ravitambade"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://www.facebook.com/ravivtambade"><img src="https://img.shields.io/badge/Facebook-12100E?style=for-the-badge&logo=facebook&logoColor=white"></img></a>
-
-<hr/>
-<h2> TAP Memebers GIT hub Contribution</h2>
-<hr/>
-<h2> TAP Memebers GIT hub Contribution</h2>
-- 🌱 Pragati Bangar
-<img src="https://ghchart.rshah.org/PragatiBangar" alt=Pragati Bangar Github chart">
-- 🌱 Abhay Navale
-<img src="https://ghchart.rshah.org/NavaleAbhay" alt="Abhay Navale Github chart">
-- 🌱 Vedant Yadav
-<img src="https://ghchart.rshah.org/VedantYadav799" alt="Vedant Github chart">
-- 🌱 Shubham Teli
-<img src="https://ghchart.rshah.org/TeliShubham-12" alt="Shubham Teli Github chart">
-- 🌱 Akash Ajab
-<img src="https://ghchart.rshah.org/Akashajab1999" alt="Akash Ajab Github chart">
-- 🌱 Rishikesh Chikane
-<img src="https://ghchart.rshah.org/RushikeshChikane" alt="Rushikesh Chikane Github chart">
-- 🌱 Sahil Mankar
-<img src="https://ghchart.rshah.org/sahilmankar" alt="Sahil Mankar Github chart">
-- 🌱 Akshay Tanpure
-<img src="https://ghchart.rshah.org/ErAkshay2210" alt="Akshay Tanpure Github chart">
-- 🌱 Rohit Gore
-<img src="https://ghchart.rshah.org/Gorerohit19" alt="Rohit Gore Github chart">
