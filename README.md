@@ -40,7 +40,7 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
 - [FullStack Developer](https://ravitambade.wordpress.com/2023/10/20/fullstack-developer/)
 - [How to become a Better Software Engineer ?](https://ravitambade.wordpress.com/2023/09/09/how-to-be-a-better-software-engineer/)
 - [Transflower's Internship](https://ravitambade.wordpress.com/2023/08/29/transflowers-internship/)
-- Ride an Elephant](https://ravitambade.wordpress.com/2023/07/07/ride-an-elephant/)
+- [Ride an Elephant](https://ravitambade.wordpress.com/2023/07/07/ride-an-elephant/)
 - [TAP Your Potential](https://ravitambade.wordpress.com/2021/04/04/tap-your-potential-2/)
 - [Playful Curiocity In Learning Process](https://ravitambade.wordpress.com/2021/03/05/playful-curiosity-in-learning-process/)
 - [TAP Your Potential](https://ravitambade.wordpress.com/2020/09/05/tap-your-potential/)
