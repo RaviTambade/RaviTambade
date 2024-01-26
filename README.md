@@ -36,6 +36,7 @@ Learning and Teaching, my passion keeps me involved in teaching and mentoring In
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Are we on right path?](https://ravitambade.wordpress.com/2024/01/20/are-we-on-right-path/)
 - [Beyond your comfort zone](https://ravitambade.wordpress.com/2023/12/12/beyond-your-comfort-zone/)
 - [Are we welcoming change?](https://ravitambade.wordpress.com/2023/11/04/are-we-welcoming-change/)
 - [FullStack Developer](https://ravitambade.wordpress.com/2023/10/20/fullstack-developer/)
