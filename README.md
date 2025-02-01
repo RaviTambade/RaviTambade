@@ -7,7 +7,7 @@
 My attitude towards any technology is, “I don’t know it all, but I will figure it out”. I find technology fascinating due to its vast ever-changing nature. 
 There is so much to investigate. Every day I come to learn, I find out I know less. This keep my learning spirit alive.
 Learning and Teaching, my passion keeps me involved in teaching and mentoring Information Technology for more than 25 years. I am loving it.
-Mentor is listening @ 9881735801 (Whats app)
+<p>Mentor is listening @ <b></b>9881735801 <b> </p> (Whats app) </p>p>
 
  
 </div>
